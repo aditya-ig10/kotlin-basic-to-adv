@@ -13,9 +13,10 @@
 1) Extract Kotlin Zip and copy the nested folder in the C directory.
 2) Now search for Environmental Variables and declare kotlin as global.
 3) Check that kotlin and java are working perfectly by doing
-   >javac --version
-   and
-   >kotlin -version
+   > javac --version
+
+   > kotlin -version
+
 ![CMD-Prev](https://github.com/aditya-ig10/kotlin-basic-to-adv/assets/93360691/9cc33bb2-b6ee-4c3e-8335-29283e7450d4)
    
 ### Setting the IDE 
