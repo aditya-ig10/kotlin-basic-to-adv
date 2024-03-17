@@ -30,3 +30,4 @@
 (I'll Update README.md dynamically along with my projects.)
 
 1) 'kot1.kt' is for **Printing a Particular Text in Kotlin**
+2) 'kot2.kt' is for **Declaring a Variable usin Var and Val**
