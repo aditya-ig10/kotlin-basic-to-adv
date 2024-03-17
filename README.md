@@ -29,4 +29,4 @@
 ### Follow the order to view .kt files in this repo.
 (I'll Update README.md dynamically along with my projects.)
 
-1) 'k1.kt' is for **Printing a Particular Text in Kotlin**
+1) 'kot1.kt' is for **Printing a Particular Text in Kotlin**
